@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #111827;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+=======
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #070B1A;
+>>>>>>> ed3ee1def73026f26502dae1b6733b6107c5c555
+}
